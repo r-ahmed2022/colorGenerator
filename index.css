@@ -7,7 +7,7 @@ html, body {
 #wrapper {
     max-width: 960px;
     height: 500px;
-    margin: 0;
+    margin: 3em auto;
     padding: 10px 20px;
     display: flex;
     flex-direction: column;
